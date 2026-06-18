@@ -1,5 +1,5 @@
 # dynamic-pricing-profit-optimization
-Demand Elasticity Based Dynamic Pricing and Profit Optimization using Machine Learning and CPI Data
+
 # Dynamic Pricing and Profit Optimization
 
 Bu proje, "Enflasyonist Ortamlarda Talep Esnekliğine Dayalı Dinamik Fiyatlama ve Kâr Optimizasyonu" konusu kapsamında geliştirilmiştir.
